@@ -1,0 +1,16 @@
+C:\Users\acer\source\repos\ProgrammingMethod\bin\Debug\ProgrammingMethod.exe.config
+C:\Users\acer\source\repos\ProgrammingMethod\bin\Debug\ProgrammingMethod.exe
+C:\Users\acer\source\repos\ProgrammingMethod\bin\Debug\ProgrammingMethod.pdb
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.Form1.resources
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.Properties.Resources.resources
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.exe
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.pdb
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.Form2.resources
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.Step1.resources
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.Step2.resources
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.Step3.resources
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.Step4.resources
+C:\Users\acer\source\repos\ProgrammingMethod\obj\Debug\ProgrammingMethod.step5.resources
